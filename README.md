@@ -11,4 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=vpradoc&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vpradoc&theme=default&hide_border=false)<br/>
 ---
-[![](https://visitcount.itsvg.in/api?id=vpradoc&icon=2&color=6)](https://visitcount.itsvg.in)

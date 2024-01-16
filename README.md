@@ -21,9 +21,9 @@ No momento estou estudando JavaScript, Java e Python <br />
 **Back-end**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
   
 **Front-End** 
 
@@ -33,14 +33,9 @@ No momento estou estudando JavaScript, Java e Python <br />
 
 **Database**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></code>
+<code><img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
 
-**VCS**
-
-<a href="https://gitlab.com/" title="GitLab"> :octocat: </a>
-<a href="https://gitlab.com/" title="GitLab"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/gitlab.png" /></a>
-
-**IDS**
+**IDE'S**
 
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png" /></a>
 

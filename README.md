@@ -1,8 +1,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Eai, sou o [Vinicius](https://www.linkedin.com/in/vpradoc/)!
 
-Sou brasileiro e tenho 19 anos.
+Sou brasileiro e tenho 21 anos.
 
-Atualmente sou estudante de Ciência da Computação, estou no quinto semestre!
+Atualmente sou estudante de Ciência da Computação, estou no sétimo semestre!
 
 ### Estou em busca da minha primeira vaga na programação 🧑‍💻⚡️
 

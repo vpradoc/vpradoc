@@ -1,4 +1,4 @@
-<h1 align="center">Vinicius PC</h1>
+<h1 align="center">Olá, sou o Vinicius!</h1>
 
 <p align="center">
   <em>Desenvolvedor Full Stack apaixonado por transformar ideias em código.</em><br/>
@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="NextJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="TailwindCSS"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="TailwindCSS"/>
 </p>
 
 ---
@@ -31,5 +31,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SeuUsuarioGitHub&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=vpradoc&color=blue" alt="Profile views"/>
 </p>

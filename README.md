@@ -24,12 +24,15 @@
 ---
 
 ### 📫 Onde me encontrar
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/vpradoc/) 
-- 📂 Repositórios incríveis logo abaixo 👇
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vpradoc&color=blue" alt="Profile views"/>
+<a href="https://linkedin.com/in/vpradoc" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/viniciuspc1" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:viniciuspradocarneiro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
+---
